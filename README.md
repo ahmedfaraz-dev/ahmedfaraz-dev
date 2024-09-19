@@ -8,13 +8,13 @@
 
 <h2 align="center">🌍 Connect with me</h2>
 <p align="center">
-  <a href="https://www.instagram.com/ahmed.fraz.1217/" target="_blank">
+  <a href="https://instagram.com/ahmedfaraz" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/ahmedfaraz/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:ahmedfaraz031091@gmail.com" target="_blank">
+  <a href="mailto:ahmedfaraz@example.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
@@ -39,12 +39,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-faraz&show_icons=true&theme=radical&locale=en" alt="Ahmed's GitHub Stats" />
 </div>
 
-<h2 align="center">🐍 Snake in Action (Contributions)</h2>
+<h2 align="center">🐍 GitHub Snake Game</h2>
 <div style="text-align: center;">
   <img src="https://github.com/ahmed-faraz/ahmed-faraz/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </div>
+<p align="center">Watch how my GitHub contributions come alive in a snake game!</p>
 
-<h2 align="center">💡 Fun Facts</h2>
+<h2 align="center">🎮 Fun Facts</h2>
 <ul align="center">
   <li>🔥 I’m currently working on honing my JavaScript skills</li>
   <li>🚀 I’m learning more about cybersecurity</li>
@@ -53,5 +54,11 @@
 
 <h2 align="center">📫 How to reach me?</h2>
 <p align="center">
-  <strong>Email me:</strong> ahmedfaraz031091@gmail.com
+  <strong>Email me:</strong> ahmedfaraz@example.com
 </p>
+
+<h2 align="center">🚀 GitHub Snake Animation</h2>
+<p align="center">Engage with my GitHub contribution game below!</p>
+<div style="text-align: center;">
+  <img src="https://github.com/ahmed-faraz/ahmed-faraz/blob/output/github-snake.svg" alt="GitHub Snake" />
+</div>
