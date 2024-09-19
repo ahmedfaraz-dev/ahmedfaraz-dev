@@ -1,69 +1,69 @@
-<h1 align="center">Hi 👋, I'm Otavio</h1>
+# Ahmed Faraz - Passionate Frontend Developer 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviossousa&label=Profile%20views&color=0e75b6&style=flat" alt="otavio-sousa" /> </p>
-<h3 align="center">Developer in training, cybersecurity enthusiast from Brazil.</h3>
+👋 Hi, I'm **Ahmed Faraz**, a dedicated frontend developer from Pakistan, focused on building interactive, responsive, and user-friendly websites. With a love for learning and a strong attention to detail, I’m on a journey to master modern web development and beyond!
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <a href="https://https:/httpshttps://www.instagram.com/ahmed.fraz.1217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otaviossousa" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/otaviossousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="40" /></a>
-</p>
+---
 
-<h2 align="center">Languages and Tools:</h2>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
- 
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
-      <br>Django
-    </td>            
- </tr>
-</table>
-</div>
+## 🔧 Tech Stack:
 
-<div style="text-align: center;">
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=otaviossousa&show_icons=true&theme=dracula&locale=en&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=otaviossousa&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otaviossousa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="otavio-sousa" style="height: 200px;" />
-    </picture>
-  </div>
+- **Languages:**  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  **Also exploring:** C++, React.js
+  
+- **Tools & Technologies:**  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+  **Learning:** Meta Front-End Certificate
 
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=otaviossousa&show_icons=true&theme=dracula&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=otaviossousa&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=otaviossousa&show_icons=true&theme=dracula&locale=en" alt="otavio-sousa" style="height: 200px;" />
-    </picture>
-  </div>
-</div>
+---
 
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
-  </picture>
-</div>
+## 🛠️ My Projects:
+
+1. **[Portfolio Website](#)**  
+   A sleek, responsive personal portfolio to showcase my work and skills.  
+   **Tech:** HTML, CSS, JavaScript, Bootstrap
+
+2. **[Word Meaning Dictionary](#)**  
+   A simple JavaScript project to find and display word meanings dynamically.  
+   **Tech:** HTML, CSS, JavaScript
+
+3. **[Custom Navigation Bar](#)**  
+   A modern and clean navigation bar with logo integration and a search bar.  
+   **Tech:** HTML, CSS
+
+---
+
+## 🌱 Current Focus:
+
+- **JavaScript Challenge 2024:** One JavaScript program a day for 365 days!
+- **Meta Front-End Developer Certificate:** Diving deeper into React and advanced frontend concepts.
+
+---
+
+## 🚀 My Progress Stats:
+
+- **HTML:** ![80%](https://progress-bar.dev/80)
+- **CSS:** ![70%](https://progress-bar.dev/70)
+- **JavaScript:** ![60%](https://progress-bar.dev/60)
+- **C++:** ![50%](https://progress-bar.dev/50)
+
+---
+
+## 🔥 Fun Fact:
+
+I love to explore new technologies and always keep myself updated with the latest trends in web development. Learning something new every day is part of my journey!
+
+---
+
+## 📫 How to Reach Me:
+
+- **LinkedIn:** [Connect with me](#)
+- **Email:** ahmed@example.com  
+- **Twitter:** [Follow me](#)
+
+---
+
+### "Coding is the art of thinking clearly." 👨‍💻
