@@ -77,8 +77,8 @@
 
 <div style="text-align: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https:https://github.com/ahmedfaraz-dev/ahmedfaraz-dev//blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="[https://github.com/ahmedfaraz-dev/ahmedfaraz-dev/](https://github.com/ahmedfaraz-dev/ahmedfaraz-dev/)blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/ahmedfaraz-dev/ahmedfaraz-dev//blob/output/ocean.gif" />
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/https://github.com/ahmedfaraz-dev/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com//https://github.com/ahmedfaraz-dev/ahmedfaraz-dev/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/https://github.com/ahmedfaraz-dev/https://github.com/ahmedfaraz-dev/ahmedfaraz-dev/blob/output/ocean.gif" />
+  </picture>https://github.com/ahmedfaraz-dev
 </div>
