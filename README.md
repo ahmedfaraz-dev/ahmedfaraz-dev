@@ -4,10 +4,14 @@
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Welcome to LysCiprianno's Repository! 🚀
- 
-Hello! I’m **Maria**, a student passionate about technology and design, exploring the low-code world to create innovative solutions quickly and efficiently. This repository reflects my journey, combining creativity with powerful tools.
- 
+## Welcome to Ahmed Faraz's Repository! 🚀
+
+Hello! I’m **Ahmed**, a web developer with a deep passion for technology, design, and building intuitive, dynamic web experiences. I’m constantly exploring new tools and techniques to deliver innovative, high-performance web solutions.
+
+This repository represents my ongoing journey, where I combine creativity with expertise in **HTML**, **CSS**, and **JavaScript** to craft websites that are not only functional but also visually engaging. As I continue to grow, I strive to refine my skills and push the boundaries of web development.
+
+Feel free to explore my projects and track my progress as I work towards becoming a better developer every day.
+
 Feel free to explore and follow my progress!
 
 ## About Me
