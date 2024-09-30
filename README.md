@@ -1,84 +1,34 @@
-<h1 align="center">Hi 👋, I'm Ahmed Faraz</h1>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfaraz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfaraz-dev" /> </p>
-<h3 align="center">Developer in training, cybersecurity enthusiast from Pakistan.</h3>
+## Welcome to LysCiprianno's Repository! 🚀
+ 
+Hello! I’m **Maria**, a student passionate about technology and design, exploring the low-code world to create innovative solutions quickly and efficiently. This repository reflects my journey, combining creativity with powerful tools.
+ 
+Feel free to explore and follow my progress!
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <a href="https://www.instagram.com/ahmed.fraz.1217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otaviossousa" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/otaviossousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="40" /></a>
-</p>
+## About Me
+ 
+🎓 Technology student, always looking for new knowledge and ways to simplify development.
+ 
+💻 Focused on **design**, **web development**, and **low-code platforms** like OutSystems, Mendix, and Appian, along with traditional technologies such as **HTML**, **CSS**, and **JavaScript**.
+ 
+🤖 I leverage **artificial intelligence** to enhance coding processes, improving efficiency and productivity in my projects. This approach allows me to explore new solutions and continuously learn.
+ 
+🌱 Developing my skills to create **quick and efficient solutions**, exploring **process automation**.
+ 
+🎯 **Goal: To contribute to impactful projects and grow as a developer.**
+ 
+## Contributions
+ 
+I am open to collaborations and feedback! Feel free to open an issue or submit a pull request. I love working in teams and learning from others.
 
-<h2 align="center">Languages and Tools:</h2>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
-      <br>AWS
-    </td>              
- </tr>
-</table>
+✨ _“Simplicity unlocks space for creativity and innovation.”_ ✨
+
+<div align="center">
+  <img src="https://media.tenor.com/TOAYvUEsFQMAAAAi/hello-kitty.gif" alt="Hello Kitty">
 </div>
 
-<div style="text-align: center;">
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfaraz-dev&show_icons=true&theme=dracula&locale=en&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfaraz-dev&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfaraz-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ahmedfaraz-dev" style="height: 200px;" />
-    </picture>
-  </div>
-
-  <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ahmedfaraz-dev&show_icons=true&theme=dracula&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ahmedfaraz-dev&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedfaraz-dev&show_icons=true&theme=dracula&locale=en" alt="ahmedfaraz-dev" style="height: 200px;" />
-    </picture>
-  </div>
-</div>
-
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/https://github.com/ahmedfaraz-dev/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com//https://github.com/ahmedfaraz-dev/ahmedfaraz-dev/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/https://github.com/ahmedfaraz-dev/https://github.com/ahmedfaraz-dev/ahmedfaraz-dev/blob/output/ocean.gif" />
-  </picture>https://github.com/ahmedfaraz-dev
-</div>
