@@ -27,11 +27,12 @@ Feel free to explore and follow my progress!
 
 ## Contributions
  
-I am open to collaborations and feedback! Feel free to open an issue or submit a pull request. I love working in teams and learning from others.
+I’m open to collaborations and always appreciate feedback! Feel free to open an issue or submit a pull request. I enjoy working with teams and learning from the insights of others.
 
-✨ _“Simplicity unlocks space for creativity and innovation.”_ ✨
+✨ _“Simplicity creates the foundation for creativity and innovation.”_ ✨
 
 <div align="center">
-  <img src="https://media.tenor.com/TOAYvUEsFQMAAAAi/hello-kitty.gif" alt="Hello Kitty">
+  <img src="https://media.tenor.com/Sf8NcsqGjWYAAAAd/web-developer-coding.gif" alt="Web developer coding animation" />
 </div>
+
 
