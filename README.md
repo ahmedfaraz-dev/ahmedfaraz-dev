@@ -32,7 +32,8 @@ I’m open to collaborations and always appreciate feedback! Feel free to open a
 ✨ _“Simplicity creates the foundation for creativity and innovation.”_ ✨
 
 <div align="center">
-  <img src="https://media.tenor.com/Sf8NcsqGjWYAAAAd/web-developer-coding.gif" alt="Web developer coding animation" />
+  <img src="https://media.giphy.com/media/3oKIPnR9t8hD8UUBxK/giphy.gif" alt="Web Developer Coding Animation" />
 </div>
+
 
 
