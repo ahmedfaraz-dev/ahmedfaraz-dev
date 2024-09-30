@@ -1,8 +1,10 @@
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedfaraz-dev/your-repository/main/path-to-image/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedfaraz-dev/your-repository/main/path-to-image/snake-light.svg">
+  <img align="center" alt="Ahmed Faraz's GitHub contribution animation" src="https://raw.githubusercontent.com/ahmedfaraz-dev/ahmedfaraz-dev/main/path-to-image/snake.svg">
 </picture>
+
+
 
 ## Welcome to Ahmed Faraz's Repository! 🚀
 
@@ -31,9 +33,7 @@ I’m open to collaborations and always appreciate feedback! Feel free to open a
 
 ✨ _“Simplicity creates the foundation for creativity and innovation.”_ ✨
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnR9t8hD8UUBxK/giphy.gif" alt="Web Developer Coding Animation" />
-</div>
+
 
 
 
