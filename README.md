@@ -11,17 +11,16 @@ Hello! I’m **Maria**, a student passionate about technology and design, explor
 Feel free to explore and follow my progress!
 
 ## About Me
- 
-🎓 Technology student, always looking for new knowledge and ways to simplify development.
- 
-💻 Focused on **design**, **web development**, and **low-code platforms** like OutSystems, Mendix, and Appian, along with traditional technologies such as **HTML**, **CSS**, and **JavaScript**.
- 
-🤖 I leverage **artificial intelligence** to enhance coding processes, improving efficiency and productivity in my projects. This approach allows me to explore new solutions and continuously learn.
- 
-🌱 Developing my skills to create **quick and efficient solutions**, exploring **process automation**.
- 
-🎯 **Goal: To contribute to impactful projects and grow as a developer.**
- 
+🎓 Web developer, always eager to learn and simplify development processes.
+
+💻 Skilled in **HTML**, **CSS**, and **JavaScript**, with a focus on **web development** and creating efficient, user-friendly solutions.
+
+🤖 I leverage **artificial intelligence** to enhance coding workflows, improving efficiency and productivity in my projects while continuously exploring new solutions.
+
+🌱 Developing my expertise to create **quick and efficient solutions**, and exploring **process automation** to streamline tasks.
+
+🎯 **Goal: To contribute to impactful projects and advance my skills as a web developer.**
+
 ## Contributions
  
 I am open to collaborations and feedback! Feel free to open an issue or submit a pull request. I love working in teams and learning from others.
