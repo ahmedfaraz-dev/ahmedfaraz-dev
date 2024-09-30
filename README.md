@@ -1,7 +1,7 @@
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedfaraz-dev/your-repository/main/path-to-image/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedfaraz-dev/your-repository/main/path-to-image/snake-light.svg">
-  <img align="center" alt="Ahmed Faraz's GitHub contribution animation" src="https://raw.githubusercontent.com/ahmedfaraz-dev/ahmedfaraz-dev/main/path-to-image/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image/snake-light.svg">
+  <img align="center" alt="Ahmed Faraz's GitHub contribution animation" src="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image/snake.svg">
 </picture>
 
 
