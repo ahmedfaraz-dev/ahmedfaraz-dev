@@ -49,11 +49,11 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfaraz-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Ahmed faraz" style="height: 200px;" />
     </picture>
   </div>
-  <div style="display: inline-block; height: 100%;">
+ <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ahmedfaraz-dev&show_icons=true&theme=dracula&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ahmedfaraz-dev9&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedfaraz-dev9&show_icons=true&theme=dracula&locale=en" alt="Ahmed faraz" style="height: 200px;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MUjtaba1129&show_icons=true&theme=dracula&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MUjtaba1129&show_icons=true&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MUjtaba1129&show_icons=true&theme=dracula&locale=en" alt="Mujtaba Ali" style="height: 200px;" />
     </picture>
   </div>
 </div>
