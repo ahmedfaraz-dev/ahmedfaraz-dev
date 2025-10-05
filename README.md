@@ -38,11 +38,11 @@ const ahmed = {
 
 <div align="center">
   
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedfaraz-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedfaraz-dev&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfaraz-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -60,7 +60,7 @@ I'm passionate about giving back to the community! I actively contribute to open
 
 <div align="center">
 
-[![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ahmedfaraz-dev&theme=tokyo-night&hide_border=true)](https://github.com/ahmedfaraz-dev)
 
 </div>
 
@@ -79,7 +79,7 @@ I'm always excited to collaborate on interesting projects or just chat about fro
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedfaraz031091@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedfaraz-dev)
 
 </div>
 
@@ -92,7 +92,7 @@ I'm always excited to collaborate on interesting projects or just chat about fro
 
 ### ✨ Thanks for stopping by!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedfaraz-dev&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **"Code is like humor. When you have to explain it, it's bad!"** 😄
 
